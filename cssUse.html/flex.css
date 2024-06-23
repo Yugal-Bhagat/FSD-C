@@ -1,0 +1,42 @@
+.parent{
+    height: 700px;
+    border: 5px solid green;
+    display: flex;
+    /* flex-direction: row; */
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+
+    /* justify-content: baseline; */
+    justify-content: center;
+    /* justify-content: end; */
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    /* justify-content:space-around;  element space left side and right side */
+
+/* flex-wrap: wrap; */
+/* flex-wrap: wrap-reverse; */
+
+/* align-items: baseline; */
+/* align-items: end; */
+align-items: center;
+
+
+}
+.comman{
+    height: 100px;
+    width: 100px;
+    /* margin: auto; */
+}
+#one{
+    background-color: aquamarine;
+}
+#two{
+    background-color: rgb(45, 57, 197);
+}
+#three{
+    background-color: rgb(211, 36, 167);
+}
+#four{
+    background-color: rgb(133, 13, 151);
+}

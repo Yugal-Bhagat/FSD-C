@@ -1,0 +1,22 @@
+/* #parent{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+}
+#child{
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+} */
+ /* #view{
+    height: 90vh;
+    width: 100vw;
+    background-color: green;
+ } */
+ 
+  /* li{
+    font-size: 2rem;
+  } */
+  li{
+    font-size: 2em;
+  }

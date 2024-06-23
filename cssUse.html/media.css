@@ -1,0 +1,15 @@
+p{
+    border: 2px solid green;
+    max-width: 500px;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background-color: brown;
+}
+@media (max-width:400px) {
+    div{
+        background-color: aquamarine;
+        border-radius: 50%;
+    }
+}

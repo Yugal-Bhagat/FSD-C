@@ -1,0 +1,19 @@
+div {
+    /* display: inline; */
+    /* display: inline-block; */
+    height: 100px;
+    /* width: 100px; */
+    border: 10px solid green;
+
+}
+
+span {
+    display: inline-block;
+    /* display: block; */
+    width: 200px;
+    height: 200px;
+    margin: 50px;
+    background-color: burlywood;
+    /* display: none; */
+    /* visibility: hidden; */
+}

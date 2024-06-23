@@ -1,0 +1,23 @@
+.one{
+    display: inline-block;
+    height: 200px;
+width: 200px;
+}
+div:nth-of-type(1){
+   background-color: brown;
+   /* position: static; 
+   top: 50px; */
+   /* position: relative; 
+   top: 5px; */
+}
+div:nth-of-type(2){
+background-color: aqua;
+/* position: absolute;  
+top: 5px; */
+position: fixed;
+top: 50px;
+left: 100px;
+}
+div:nth-of-type(3){
+background-color: rgb(29, 8, 119);
+}

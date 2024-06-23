@@ -1,0 +1,12 @@
+.container{
+    height: 2000px;
+    border: 10px solid red;
+    padding: 100px;
+}
+.box{
+    border: 2px solid rgb(255, 0, 0,0.3);
+    padding: 30px;
+    background-color: burlywood;
+    position: sticky;
+    top: 40px;
+}
